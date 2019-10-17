@@ -1,0 +1,10 @@
+.board {
+  width: 558px;
+  height: 400px;
+  background-color: blue;
+  border: 1px solid black;
+}
+
+.column {
+  display: inline-block;
+}
